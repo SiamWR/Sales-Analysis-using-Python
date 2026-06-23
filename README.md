@@ -11,3 +11,10 @@ Python, Jupyter Notebook, Pandas, NumPy, Matplotlib and Seaborn
 - Data Visualization
 - Customer Segmentation Analysis
 - Business Insight Generation
+## Key Findings
+- Female customers contributed the highest number of purchases.
+- Customers aged 26–35 years represented the largest purchasing segment.
+- Uttar Pradesh, Maharashtra, and Karnataka generated the highest sales.
+- Married women demonstrated strong purchasing power.
+- Customers working in IT, Healthcare, and Aviation sectors were among the most active buyers.
+- Food, Clothing, and Electronics were the most frequently purchased product categories.
