@@ -4,4 +4,10 @@
 This project performs Exploratory Data Analysis (EDA) on a retail sales dataset using Python. The objective is to identify customer purchasing behavior, sales trends, and key business insights that can support data-driven decision-making.
 ## Tools & Technologies
 Python, Jupyter Notebook, Pandas, NumPy, Matplotlib and Seaborn
-
+## Project Workflow
+- Data Import and Inspection
+- Data Cleaning and Preprocessing
+- Exploratory Data Analysis (EDA)
+- Data Visualization
+- Customer Segmentation Analysis
+- Business Insight Generation
